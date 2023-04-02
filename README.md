@@ -17,7 +17,7 @@ This included
 ## UML Diagram
 In part 2B I designed a UML diagram for review ahead of my implementation in Project 2B.
 
-![2A](images/2A.pdf)
+![2A](images/2a.png)
 
 ## Part 3: 100%
 Here I implemented a simulation called *Shadow Life* which features a world inhabited by creatures called *gatherers*.  Their purpose in life is to gather fruit from the trees, and deposit them at stockpiles. Once they have gathered all the fruit from their trees, they rest in front of fences.
@@ -28,4 +28,4 @@ The behaviour of the simulation is entirely determined by the world file loaded 
 
 The code for this assignment is fully commented and uses basic Object Oriented Software Design principles.
 
-![2B](2b)
+![2B](images/2b.png)
